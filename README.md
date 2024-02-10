@@ -1,3 +1,4 @@
+![](https://github.com/MykytaLein/pp23-game/blob/main/preview.gif)
 ### English
 
 # Programming Course Project
